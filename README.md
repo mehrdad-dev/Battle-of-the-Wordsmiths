@@ -11,6 +11,7 @@ By [Ali Borji](https://scholar.google.com/citations?hl=en&user=7jTNT1IAAAAJ&view
 ## Dowload
 To access dataset, see [data]() folder or download the dataset from the [release]() section.
 Both ``json`` and ``csv`` format is provied for all categories, you can use them based on your need.
+For those categories/questions that do not require an answer, "none" is replaced as the answer.
 
 ## Citation
 
