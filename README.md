@@ -18,7 +18,7 @@ By [Ali Borji](https://scholar.google.com/citations?hl=en&user=7jTNT1IAAAAJ&view
 
 ## Contact 
 
-aliborji@gmail.com
-mehrdad.mhmdn@gmail.com
+- aliborji@gmail.com
+- mehrdad.mhmdn@gmail.com
 
 
