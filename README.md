@@ -18,7 +18,7 @@ To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-t
 ## Citation
 
 ## License 
-
+[GNU Public License v3](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/blob/main/LICENSE)
 
 ## Contact 
 
