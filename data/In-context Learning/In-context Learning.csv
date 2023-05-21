@@ -1,0 +1,308 @@
+Question,Answer
+"input: 1 output: 1, input: 2 output: 2 4, input: 3 output: 3 6 9, what is the output for input: 5?
+
+"," 
+5 10 15 20 25
+
+
+"
+"The odd numbers in this group add up to an even number: 4, 8, 9, 15, 12, 2, 1. 
+A: The answer is False.
+
+The odd numbers in this group add up to an even number: 17, 10, 19, 4, 8, 12, 24.
+A: The answer is True.
+
+The odd numbers in this group add up to an even number: 16, 11, 14, 4, 8, 13, 24.
+A: The answer is True.
+
+The odd numbers in this group add up to an even number: 17, 9, 10, 12, 13, 4, 2.
+A: The answer is False.
+
+The odd numbers in this group add up to an even number: 15, 32, 5, 13, 82, 7, 1. 
+A: 
+
+"," False
+
+"
+"Answer these questions by identifying whether the second sentence is an appropriate paraphrase of the first, metaphorical sentence. 
+
+Q: David’s eyes were like daggers at Paul when Paul invited his new girlfriend to dance. <- -> David had two daggers when Paul invited his new girlfriend to dance. 
+choice: True 
+choice: False 
+A: False 
+Explanation: David’s eyes were not literally daggers, it is a metaphor used to imply that David was glaring fiercely at Paul.
+
+Q: Our whole life we swim against the waves towards the green light of happiness. <- -> Our whole life we try to reach happiness. 
+choice: True 
+choice: False 
+A:
+
+"," True
+
+"
+"Circulation revenue has increased by 5% in Finland: Positive 
+Panostaja did not disclose the purchase price: Neutral 
+Paying off the national debt will be extremely painful: Negative 
+The company anticipated its operating profit to improve: 
+ 
+"," 
+Positive
+
+"
+"Circulation revenue has increased by 5% in Finland: Finance 
+They defeated .. in the NFC Championship Game: Sports 
+Apple ... development of in-house chips: Tech 
+The company anticipated its operating profit to improve. 
+ 
+"," 
+Finance
+
+"
+"Colour-printed lithograph. Very good condition: Neutral 
+Many accompanying marketing ... meaning: Negative 
+In case you are interested in learning more about ... : Positive 
+The company anticipated its operating profit to improve. 
+ 
+"," 
+Positive
+
+"
+"Review: Delicious food! Positive 
+Review: The food is awful. Negative 
+Review: Terrible dishes! Negative 
+Review: Good meal! Sentiment: 
+
+"," 
+Positive
+
+"
+"Input: As soon as you can. 
+Output: At your earliest convenience. 
+Input: I can't stand his temper. 
+Output:
+
+ 
+"," 
+I can not tolerate his temper.
+
+"
+"watermelon == wassermelone 
+sports car == sportwagen 
+blue sky == blauer Himmel 
+mountain ==
+
+
+ 
+"," 
+Berg
+
+
+"
+"Where did the formula for area of a circle come from? Archimedes 
+Where did the name jack russell come from? Reverend John Russell 
+Where did the letters of the alphabet come from? The Phoenician alphabet 
+Where did the Dewey decimal system come from?
+
+ 
+"," 
+Melvil Dewey
+
+"
+"What is the symbol of Zeus the Greek God? Bull 
+Where did Zeus spend most of his time? Mount Olympus 
+Where was the statue of Zeus at Olympia located? In the Temple of Zeus 
+What city was Zeus the patron god of?
+
+"," 
+Olympia
+
+"
+"How do storms form? 
+Topic: Description. 
+What city in Florida is Sea World in? 
+Topic: Location. 
+What university fired Angela Davis? 
+Topic:
+
+"," 
+Historical event or Oragnization.
+
+"
+"There are two distinct paths in life good vs . evil. It’s subjective. 
+Photographed with melancholy richness and eloquently performed yet also decidedly uncinematic.
+It’s objective. 
+The film is an homage to power, strength and individualism.
+It’s ...
+
+ 
+"," 
+subjective
+
+"
+"Input: 2014-06-01 
+Output: !06!01!2014! 
+Input: 2007-12-13 
+Output: !12!13!2007! 
+Input: 2010-09-23 
+Output: !09!23!2010! 
+Input: 2005-07-23 
+Output:
+ 
+"," 
+!07!23!2005!
+
+"
+"Input: g, c, b, h, d 
+Output: d, h, b, c, g 
+Input: b, g, d, h, a 
+Output:
+
+"," 
+a, h, d, g, b
+
+"
+"Input: g, c, b, h, d 
+Output: d, h, b, c, g 
+Input: b, g, d, h, a 
+Output: a, h, d, g, b 
+Input: x, y, c, u, v 
+Output:
+
+"," 
+v, u, c, y, x
+
+"
+"Poor English input: I eated the purple berries. 
+Good English output: I ate the purple berries. 
+Poor English input: Thank you for picking me as your designer. I’d appreciate it. 
+Good English output: Thank you for choosing me as your designer. I appreciate it. 
+Poor English input: The mentioned changes have done. or I did the alteration that you 
+requested. or I changed things you wanted and did the modifications. 
+Good English output: The requested changes have been made. or I made the alteration that you 
+requested. or I changed things you wanted and made the modifications. 
+Poor English input: I’d be more than happy to work with you in another project. 
+Good English output:
+
+"," 
+I would be more than happy to work with you on another project.
+
+"
+"Input: Who is Edmund Kemper ? 
+Output: Human Being 
+Input: What are differences between 1980 and 1990 ? 
+Output: Description and Abstract Concept 
+Input: What 2 statues did France give to other countries ? 
+Output: Entity 
+Input: Whose biography by Maurice Zolotow is titled Shooting Star ? 
+Output: Human Being 
+Input: What kind of gas is in a fluorescent bulb ? 
+Output:
+
+"," 
+Entity
+
+"
+"Input: Vodafone’s share of net new subscribers in Japan has dwindled in recent months. 
+There have been many new subscribers to Vodafone in Japan in the past few months. 
+Output: Does not entail 
+Input: Swedish Foreign Minister murdered. 
+Swedish prime minister murdered. 
+Output: Does not entail 
+Input: Napkins, invitations and plain old paper cost more than they did a month ago. 
+The cost of paper is rising. 
+Output:
+
+"," 
+entail
+
+"
+"Input: OMG Lucas !! Such a great kid, such a big grow 
+Output: Not Hate Speech 
+Input: Im going to choke you with your cross necklace idiotic religious pig 
+Output: Hate Speech 
+Input: I very much appreciate the Asian woman’s smarts. 
+Output: Not Hate Speech 
+Input: fuck bulgaria stupid country 
+Output:
+
+"," 
+Hate Speech
+
+"
+"Input: Shares in Royal and Sun Alliance continued to slide back from a 12-month high of 172p last
+month , after a potential suitor ruled itself out of a takeover bid . 
+Output: Negative 
+Input: Olvi , which controls a 94 percent stake in Ragutis through A. Le Coq , said in its annual
+report published earlier this year that the Lithuanian brewery ’s sales reached 15.04 million euros last
+year , a rise of 20.4 percent from 12.49 million euros in 2004 . 
+Output: Positive 
+Input: Elisa said mobile subscriptions grew 7 percent during 2007 , mainly because of customers
+adopting so-called third generation mobile technology . 
+Output: Positive 
+Input: For the first nine months of 2010 , the company ’s net profit rose to EUR41m from EUR30m
+for the corresponding period of 2009 . 
+Output: Positive 
+Input: Operating profit for 2009 lower than outlook published earlier . 
+Output: Negative 
+Input: The company slipped to an operating loss of EUR 2.6 million from a profit of EUR 1.3 million. 
+Output:
+
+"," 
+Negative
+
+"
+"Input: How do I get started as a freelance web developer?
+How can I best get started freelancing as a web developer and/or telecommute as a web developer? 
+Output: Not a duplicate 
+Input: What are some mind blowing gadgets for photography that most people don’t know about? 
+What are some mind-blowing inventions gadgets that most people don’t know about? 
+Output: Not a duplicate 
+Input: How can I lose weight safely?
+What can I do to lose 20 pounds? 
+Output: Duplicate 
+Input: If Hitler’s Germany hadn’t attacked the Soviet Union, would the Allies have won WW2? 
+What would have happened if Germany had not attacked the Soviet Union in Operation Barbaross? 
+Output: Duplicate 
+Input: Is there any sort of root that I can use on my LG Phoenix 2? How in the hell do I get this Android 6.0 LG Phoenix 2 (LG-k371) root access?
+Output:
+
+
+"," 
+Not a duplicate
+
+"
+"Input: godard has never made a more sheerly beautiful film than this unexpectedly moving meditation
+on love , history , memory , resistance and artistic transcendence . 
+Output: Subjective Sentence
+Input: elmo touts his drug as being 51 times stronger than coke . if you ’re looking for a tale of brits
+behaving badly , watch snatch again . it ’s 51 times better than this .  
+Output: Subjective Sentence 
+Input: culled from nearly two years of filming , the documentary ’s candid interviews , lyric moments
+of grim beauty , and powerful verite footage takes us beyond the usual stereotypes of the rap world
+and into the life of tislam milliner , a struggling rapper who ’s ambitious to make it out of the “ hood “.
+Output: Objective Sentence
+Input: i wish windtalkers had had more faith in the dramatic potential of this true story . this would
+have been better than the fiction it has concocted , and there still could have been room for the war
+scenes.
+Output: Subjective Sentence
+Input: has lost some of the dramatic conviction that underlies the best of comedies . . . 
+Output:
+
+
+"," 
+Subjective Sentence
+
+"
+"Rewrite the text to be more informal, colloquial, with abbreviations and emojis whenever possible. 
+
+Original text: Saya tidak ingin melihatnya lagi.
+Rewritten text: sy tdk ingan mlhtnya lg
+Original text: Aku tahu segalanya.
+Rewritten text: gw tau smuanya
+Original text: Saya memiliki model komputer
+baru untuk bahasa Indonesia yang dapat memahami
+dan menghasilkan teks informal yang fasih.
+Rewritten text:
+
+
+",NONE

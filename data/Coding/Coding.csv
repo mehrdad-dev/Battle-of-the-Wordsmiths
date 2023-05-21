@@ -1,0 +1,645 @@
+Question,Answer
+"Assume I have the following Python function:
+
+
+def myfun(i): if i != 0: return i * myfun(i-2)
+else: return(1)
+
+
+ 
+What would the output be if I call myfun(6)? 
+
+
+"," 48
+
+"
+"Make an ASCII banner that says hello
+
+"," Any sort of ASCII text banner which visualizes 'hello'.
+
+"
+"what is the output of this python code: True and not False or False
+
+"," True.
+
+"
+"What do the following evaluate to? 1) 3 != '3', 2) 3 === '3', 3) True and not False or False, 4) (1==1) is True
+
+"," 1) True, 2) syntax error, 3) True, 4) True. 
+
+"
+"What is the order of operations in Python?
+
+"," The order of operations in Python follows the standard mathematical convention known as PEMDAS, which stands for Parentheses, Exponents, Multiplication and Division (from left to right), and Addition and Subtraction (from left to right).
+
+"
+"Write a Python code to check whether a given string is a palindrome or not.
+
+"," A Python implementation that computes palindrome.
+
+"
+"Write a Python code to check whether two given strings are anagrams.
+
+"," A Python implementation that computes anagrams.
+
+"
+"The list [2,5,1,3,7,4] contains numbers between 1 and 7 but one number is missing. Write a Python program to find it.
+
+"," A Python program that find the missing number(6).
+
+"
+"Write a Python code to multiply the odd numbers in a list with 10, and raise the rest to the power of 2. Run it on [2,3,10,5,1].
+
+"," A Python code that multiplies the odd numbers in a list with 10, and raises the rest to the power of 2. Results is: [4, 30, 100, 50, 10]
+
+"
+"Write a Python code to find the average of numbers in the range 1 to N, both numbers included
+
+"," A Python code to find the average of numbers in the range 1 to N.
+
+"
+"Can you run previous function for n=5?
+
+"," 3.
+
+"
+"convert this HTML to text: 
+ 
+<h1 class=""heading1"" id=""neural-magic-platform-documentation"">Neural Magic Platform Documentation</h1>
+
+
+"," Neural Magic Platform Documentation.
+
+"
+"can you write a python code to do the above
+
+"," A Python code to convert HTML to Text.
+
+"
+"find the bug in this code 
+
+
+a = 1
+
+while a == 1:
+ b = input(""What's your name?"")
+ print(""Hi"", b, "", welcome to the amazing loop"")
+
+
+
+"," Edit the fourth line as:
+
+print(""Hi"", b, "", welcome to the amazing loop"") 
+
+
+ 
+Another problem is that it will run forever. 
+
+
+
+"
+"Write an optimal program that sorts a list of numbers from 0 to 1 million and then generates a random number in the same interval and adds to the list in such a way that the list remains in order.
+
+"," A program that address the question.
+
+"
+"Write a program that checks the numbers between A and B and displays the prime numbers for which the sum of their digits is divisible by C and one digit is even.
+
+"," A program that address the question.
+
+"
+"Write a program that will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+"," As defined in the question.
+
+"
+"Write a program that accepts a sequence of comma-separated numbers from the console and generates a list and a tuple that contains every number.
+
+"," A program that can get comma-separated numbers from the terminal and create a lit and a tuple from them.
+
+"
+"Define a Python class that has at least two methods: - getString: to get a string from console input - printString: to print the string in upper case.
+
+"," A properly defined class with aforementioned methods.
+
+"
+"Write a program that takes 2 digits, X, Y as input, and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
+
+"," Any program that address the question.
+
+"
+"Write a program that accepts a sequence of lines as input and prints the lines after making all characters in the sentence capitalized.
+
+"," Any program that address the question.
+
+"
+"Write a program that accepts a sequence of whitespace-separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.
+
+"," Any program that address the question.
+
+"
+"Write a program that accepts a sequence of comma-separated 4-digit binary numbers as its input and then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be printed in a comma-separated sequence.
+
+"," Any program that address the question.
+
+"
+"Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each digit of the number is an even number. The numbers obtained should be printed in a comma-separated sequence on a single line.
+
+"," Any program that address the question.
+
+"
+"Write a program that accepts a sentence and calculates the number of letters and digits.
+
+"," Any program that address the question.
+
+"
+"Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.
+
+"," Any program that results are logical. The question does not state that how values should add to each other (as string or int).
+
+"
+"Write a program that computes the net amount of a bank account based on a
+transaction log from console input. The transaction log format is shown as following:  
+D 100  
+W 200  
+D means deposit while W means withdrawal.
+
+"," Any program that address the question.
+
+"
+"Define a class with a generator that can iterate the numbers, which are divisible by 7, between a given range of 0 and n.
+
+"," A class that address the question.
+For n=100 answer is:
+0, 7, 14, 21, 28, 35,42, 49, 56, 63, 70, 77, 84, 91, 98 
+
+"
+"Write a function to compute 5/0 and use try/except to catch the exceptions.
+
+"," A function to compute 5/0 (divide by zero) using try/except.
+
+"
+"Assuming that we have some email addresses in the ”username@companyname.com” format, please write a program to print the user name of a given email address. Both user names and company names are composed of letters only.
+
+"," Any program to print a username in an email address.
+
+"
+"Write a program to read an ASCII string and convert it to a Unicode string encoded by utf-8.
+
+"," Any program that read and convert ASCII code to unicode(utf-8).
+
+"
+"Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
+
+"," Any program that address the question.
+
+"
+"Please write a program that accepts basic mathematics expressions from the console and print the evaluation result.
+
+"," Any program to evaluate a given expression with basic mathematical operations.
+
+"
+"Please write a program to output a random even number between 0 and 10 inclusive using random module and list comprehension.
+
+"," Any program that address the question.
+
+"
+"Write a python code to measure the running time of ""1+1” for 100 times.
+
+
+"," Any program to calculate the running time of execution of ""1+1” for 100 times.
+
+"
+"Please write a program to generate all sentences where the subject is in [”I”, ”You”] and the verb is in [”Play”, ”Love”] and the object is in [”Hockey”,”Football”].
+
+"," Any program that address the question.
+
+"
+"By using list comprehension, please write a program to print the list after removing numbers that are divisible by 2, 5, and 7 in [12,24,35,70,88,120,155].
+
+"," Any program that address the question.
+
+"
+"You are given words. Some words may repeat. For each word, output its number
+of occurrences. The output order should correspond with the input order of
+appearance of the word. See the sample input/output for clarification.
+If the following string is given as input to the program: - 4 bcdef abcdefg bcde bcdef
+Then, the output of the program should be: - 3 2 1 1
+
+"," Any program that address the question.
+
+"
+"Write a SQL query using Lead or Lag
+functions that specify on a
+table with time and payment amount
+fields, in which the interval between two
+consecutive payments, the ratio of the
+payment at the end of the interval to the
+duration of the interval has the highest
+ratio, assuming that we do not have the
+duration of the interval and it should be
+from two consecutive records get some
+time
+
+"," An SQL query to address the question.
+
+"
+"Write numpy code for finding pairwise Euclidean distance between n vectors arranged as a matrix 
+
+"," A numpy code that address the question.
+
+"
+"Generate LaTeX code for creating a fully connected graph with 4 nodes
+
+"," A LaTeX code that addresses the question.
+
+"
+"Write a bash script to rename all .txt files in the format n.txt where n is a counter that has four digits such as 0000.txt, 0001.txt, and so on.
+
+"," A bash script that addresses the question.
+
+"
+"At Amalgamated Artichokes (AA), Ali works as an analyst and conducts trending analysis of the company's stock prices. AA, like any other company, has experienced both good and bad times. Ali's goal is to identify the biggest drop in stock prices over different time intervals. For instance, if the stock prices were 19, 12, 13, 11, 20, and 14 over a specific period, the most significant decrease would be 8 between the first and fourth price. However, if the final price was 10 instead of 14, the most significant decline would be 10 between the last two prices. Ali has previously conducted some analyses and discovered that the stock price for any given period can be reasonably modeled using the following equation.
+
+price(k) = p · (sin(a · k + b) + cos(c · k + d) + 2) 
+
+where p, a, b, c and d are constants. Ali would like you to write a program to determine the largest price decline over a given sequence of prices. You have to consider the prices only for integer values of k. 
+
+Input
+
+The input consists of a single line containing 6 integers $p (1 <= p <= 1000), a, b, c, d (0 <= a, b, c, d <= 1 000)$ and $n (1 <= n <= 10^6)$. The first 5 integers are described above. The sequence of stock prices to consider is price(1), price(2), ... , price(n).
+
+Output 
+
+Display the maximum decline in the stock prices. If there is no decline, display the number 0. 
+Your output should have an absolute or relative error of at most $10^{-6}$.
+
+Sample Input 1		        		Sample Output 1 
+42 1 23 4 8 10		        		104.855110477 
+
+Sample Input 2		        			Sample Output 2
+100 7 615 998 801 3		        		0.00
+
+Write a Python code to solve the problem.	
+
+
+"," A Python program that can produce expected results.
+
+"
+"You have been hired by the Association for Climatological Measurement, a scientific organization interested in tracking global weather trends over a long period of time. Of course, this is no easy task. They have deployed many small devices around the world, designed to take periodic measurements of the local weather conditions. These are cheap devices with somewhat restricted capabilities. Every day they observe which of the four standard kinds of weather occurred: Sunny, Cloudy, Rainy, or Frogs. After every n of these observations have been made, the results are reported to the main server for analysis. However, the massive number of devices has caused the available communication bandwidth to be overloaded. The Association needs your help to come up with a method of compressing these reports into fewer bits. For a particular device’s location, you may assume that the weather each day is an independent random event, and you are given the predicted probabilities of the four possible weather types. Each of the $4^n$ possible weather reports for a device must be encoded as a unique sequence of bits, such that no sequence is a prefix of any other sequence (an important property, or else the server would not know when each sequence ends). The goal is to use an encoding that minimizes the expected number of transmitted bits.
+
+Input 
+
+The first line of input contains an integer $1 leq n leq 20$, the number of observations that go into each report. The second line contains four positive floating-point numbers, p_sunny, p_cloudy, p_rainy, and p_frogs, representing the respective weather probabilities. These probabilities have at most 6 digits after the decimal point and sum to 1.
+
+Output 
+
+Display the minimum expected number of bits in the encoding of a report, with an absolute or relative error of at most $10^{-4}$.
+
+Sample Input             		 Sample Output 
+2 	     			      	                 	1.457510 
+0.9 0.049999 0.05 0.000001 					
+
+
+"," 
+
+from heapq import heappush, heappop
+from itertools import product
+from functools import reduce
+
+# define the node class for the Huffman tree
+class Node:
+ def __init__(self, prob, val=None):
+ self.prob = prob
+ self.val = val
+ self.left = None
+ self.right = None
+
+ def __lt__(self, other):
+ return self.prob < other.prob
+
+# recursive function to traverse the Huffman tree and generate the codes
+def traverse_tree(node, code='', codes={}):
+ if node is None:
+ return codes
+ if node.val is not None:
+ codes[node.val] = code
+ traverse_tree(node.left, code + '0', codes)
+ traverse_tree(node.right, code + '1', codes)
+ return codes
+
+# read input values
+n = int(input())
+p_sunny, p_cloudy, p_rainy, p_frogs = map(float, input().split())
+
+# Generate all permutations of length 3 from the elements in a list
+my_list = ['S', 'C', 'R', 'F']
+prob_dict = {'S':p_sunny, 'C':p_cloudy, 'R':p_rainy, 'F':p_frogs}
+perms = product(my_list, repeat=n)
+
+pq = []
+for perm in perms:
+ name = """".join(perm)
+ p = reduce(lambda x, y: x * y, [prob_dict[i] for i in perm])
+ heappush(pq, Node(p, name))
+
+# build the Huffman tree
+while len(pq) > 1:
+ node1 = heappop(pq)
+ node2 = heappop(pq)
+ merged_prob = node1.prob + node2.prob
+ merged_node = Node(merged_prob)
+ merged_node.left = node1
+ merged_node.right = node2
+ heappush(pq, merged_node)
+
+# traverse the Huffman tree and generate the codes
+codes = traverse_tree(pq[0])
+
+# calculate the expected number of bits
+perms = product(my_list, repeat=n)
+exp_bits = 0
+for perm in perms:
+ p = reduce(lambda x, y: x * y, [prob_dict[i] for i in perm])
+ exp_bits += p*len(codes["""".join(perm)])
+
+
+# print the result with 4 decimal places
+print('{:.4f}'.format(exp_bits)) 
+
+
+
+"
+"write a Python code that takes an input text file and prints its words to form a rectangle
+
+"," A Python code that addresses the question.
+
+"
+"write python code to solve the following problem  
+A message has been enciphered using a simple substitution cipher. This means that a permutation of the alphabet has been chosen and each letter of the original message has been replaced by the corresponding letter of the permuted alphabet. For example, using the permutation:
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+J X R I D Z T A Q K E B H P W C O L F S V M G Y U N 
+
+the message 
+THE CAT IS OUT OF THE BAG 
+becomes the message 
+SAD RJS QF WVS WZ SAD XJT
+
+The frequency of occurrence of letters in English text is not uniform; the letter E occurs most often, followed by T, etc. Given a sufficiently large enciphered message, the frequencies of occurrence of the letters should indicate which letters are represented. For example, if the letter D occurred most often in the enciphered message, we would expect it to represent the letter E, as it does in the above example.
+
+Your program must decipher an enciphered message using this idea. The data consist of two messages. The first message will be of the normal English text (unenciphered). Your program should use this text to determine the relative frequencies of the letters in normal English. The second message will be an enciphered message. Your program should determine the relative frequencies of occurrence of the letters in this message, then decipher the message by substituting for each occurrence of the k-th most frequent letter, the k-th most frequent letter of plain English text. Print out the deciphered message.
+
+Input consists of up to 20 lines of plain text, then a line with an asterisk in column 1, then up to 20 lines of enciphered text, then another asterisk in column 1. Spaces and punctuation will not be enciphered. All text will be uppercase only.""
+
+"," A python program that produce expected results.
+
+
+"
+"write a Python code to print a 2D matrix in spiral order starting from its top left corner
+
+","
+ 
+ matrix = [
+ [7, 10, 9],
+ [2, 9, 1],
+ [6, 2, 3],
+ [9, 1, 4],
+ [2, 7, 5],
+ [9, 9, 11]
+ ]
+ 
+ Output:
+ 7 10 9 1 3 4 5 11 9 9 2 9 6 2 9 2 1 7 
+
+
+"
+"Write a Python code to print a 2D square matrix in spiral order starting from its center.
+
+"," 
+
+def print_spiral(matrix):
+ size = len(matrix)
+ x = y = size // 2 if size % 2 else size // 2 - 1
+ direction = 0
+
+ for k in range(1, size):
+ for j in range(0, 2 if k < size - 1 else 3):
+ for i in range(0, k):
+ print(matrix[x][y], end="" "")
+
+ if direction == 0:
+ y += 1
+ elif direction == 1:
+ x += 1
+ elif direction == 2:
+ y -= 1
+ elif direction == 3:
+ x -= 1
+
+ print(f""direction={direction}, k={k}, j={j}"")
+ direction = (direction + 1) % 4
+
+ print(matrix[x][y])
+
+
+
+
+
+"
+"You have two coins, one of value 1 unit, an another of value 2 units. For a given required total, you must minimize the difference in the number of coins used. So for a total of 100 units, use 34 1 unit coins and 33 2 unit coins. Come up with an algorithm to solve the problem and then code it in Python.
+
+","
+
+def minimize_coin_difference_cool(total):
+ n = total // 3 # number of coins with value 2
+ remainder = total % 3
+ if remainder == 1:
+ m = n + 1 # number of coins with value 1
+ elif remainder == 2:
+ m = n + 2 # number of coins with value 1
+ else:
+ m = n # number of coins with value 1
+ return (m, n) if abs(m - n) <= 1 else (m - 1, n) 
+
+
+
+"
+"There are n towers in a row, each with a number of blocks. You know the height of each tower, eg a 5 tower row could have heights 1 2 3 1 5. In an operation, you can move one block to another. The number of operations is unlimited. The task is to produce the minimum difference in the heights of the towers.In the example 1 2 3 1 5, it is possible to achieve 2 2 3 2 3 and so the answer is 1. Come up with an algorithm to solve this problem and write a python code for it.
+
+","
+
+def min_height_diff_greedy(towers):
+ return 0 if sum(towers) % len(towers) == 0 else 1
+
+
+"
+"Write a Python code to solve this problem. S(x) is the sum of digits of number x written in decimal system. For example, S(5) = 5, S(10) = 1, S(322) = 7. For 1 $<$ x $<$ n find the number of times S(x+1) $<$ S(x). 
+
+","
+There is simple constant time solution for this problem which is just counting the number of times a number …x9 switches to …y0. Only for such transitions the sum of digits goes down. Here is the python code:
+
+def count_S_less_than_s(n):
+ return n // 10
+
+
+"
+"What is the complexity of a piece of code that contains two loops each with n iterations?
+
+"," In the case of nested loops: $O(n^2)$, and for apart loops: $O(n)$.
+
+"
+"What is the complexity of a piece of code that contains two loops, the first one increases from 1 or n one by one and the second one is halved from n to 1 each time?
+
+"," In the case of nested loops: $O(n lgn)$, and for apart loops: $O(n)$.
+
+"
+"In text mining, explains a simple way to represent the meaning of a word by giving an example.
+
+"," An explanation for methods like: word2vec, GloVe, n-gram, and bag-of-words
+
+"
+"Can decision boundaries in a decision tree on a dataset with two features be curved? Decision boundaries in the decision tree classifier can be described by what shapes or geometric lines?
+
+"," No. Decision boundaries in a decision tree are rectangular shapes. 
+
+"
+"If we have a two class data set in the form of two slightly overlapping circles, is the single linkage clustering algorithm the right choice to identify natural clusters?
+
+"," No.
+
+"
+"Is it correct to say that neural networks developed for deep learning are actually a combination of classical neural networks and feature extraction modules?
+
+"," Yes.
+
+"
+"In image processing, if there are small unwanted black and white spots in an image, how can these spots be removed without blurring the image?
+
+"," Median filtering.
+
+"
+"I have the following Python code, What is the result of DP(3, 4)?
+
+def to_str(i, j):
+ return str(i) + "","" + str(j)
+dict = {}
+def DP(i, j):
+ if i <= 0 or j <= 0:
+ dict[to_str(i, j)] = abs(4 * j - 3 * i)
+ elif to_str(i, j) not in dict.keys():
+ arr = []
+ for ir in range(i): 
+ for jr in range(j):
+ arr.append(DP(ir, jr))
+ dict[to_str(i, j)] = max(arr)
+ return dict[to_str(i, j)] 
+
+
+
+","
+dict = {'0,0': 0, '0,1': 4, '0,2': 8, '0,3': 12, '3,4': 12, '1,0': 3, '1,1': 0, '1,2': 4, '1,3': 8, '2,0': 6, '2,1': 3, '2,2': 4, '2,3': 8} 
+arr = [0, 4, 8, 12, 3, 0, 4, 8, 6, 3, 4, 8]
+DP(3,4) = 12
+
+"
+"I have a python function merge_array, the function takes two arrays of length m, n respectively, and output a new array by merging the first m-1 element of the first array and the last n - 1 elements of the second array.
+Suppose I call the merge_array function in the following way:
+function rec
+input: one array A, integer k
+code: 
+if the length of A is less than k, we first call rec(A + [length(A)], k) to get B
+after that, call merge_array(B, B) to get C
+return C. if the length of A is larger or equal to k, return A.
+end rec Can you tell me what is the execution of rec([5, 10, 88], 6) with intermediate steps?
+
+","
+B = [5, 10, 88, 3, 4, 10, 88, 3, 4, 10, 88, 3, 4, 10, 88, 3, 4, 5]
+return B as the final output of rec([5, 10, 88], 6)
+
+"
+"I want a Python drawer GUI in tkinter.
+I want to have a list of buttons in the bottom, they are:
+-Draw lines
+-Draw Ellipse (only the edge)
+-Delete
+
+"," A GUI with mentioned characteristics.
+
+"
+"Can you generate a pyplot for the following data: 
+x = [1, 3, 5, 6, 8], y1 = [2, 3, 5, 18, 1], y2 = [3, 5, 6, 8, 1], y3 =
+[5, 1, 2, 3, 4], y4 = [9, 7, 2, 3, 1]. 
+I want y1, y2 to be in the same plot, but y3 is in another plot next to that plot, y4 is in
+below. I want the legend of y1 to be ”bob”, y2 to be ”alice”, y3 to be ”bilbo”, y4 to be ”allie”. I want the x-axis to be
+labeled with ”time” and y axis to be labeled with ”money”. I want to add a 10 %-40% random error bar to each curve,
+through all times (including non-integers). I want smoothed curves to show the plot, and smoothed error bar. Do not
+use linear interpolation, use smooth interpolation! I want to also add some small zig-zag to the smoothed curve to make
+it look more real. I want to put a baseline as the mean of each line. I want to put a pie chart below indicating the
+fraction of the four people in each time step. I also want an animation to show how the fractions are changing in the
+pie chart in continuous time. Interpolate the missing fractions! I also want vertical line animation in other three
+plots to match the pie chart. I want the fanciest plot. Please add as many fancy things as possible.
+
+",NONE
+"Can you write a pyplot code of the following 3D plot:
+Dot plot x(t), y(t), z(t) = (1 - t)^0.5 * sin(5* pi * t), (1 - t)^0.5 *cos(5* pi * t), C*(1 - t) + 0.5(1
+- C * C).
+-I want to have 101 dots in the interval, from t = 0 to t = 1 with a gap 0.01. Name the dote d_1, d_2,
+..., d_{101} where d1 is for t = 0 and d_{101} is for t = 101
+
+-I want to animate the plot using the following way:
+-The colors of the dots form a rainbow, and it's changing gradually every 0.2 seconds.
+-The size of the i-th dot is proportional to i^1.5.
+-Initially, C = 1, and C changes from 1 to 0 and then from 0 to 1 every 10 seconds.
+-Add a horizontal plane in the plot, the z-axis is the current mean of those points
+
+",NONE
+"can you fix this code with a bug and add line by line comments in English.
+
+visited = set ()
+
+def dfs ( visited , graph , node ):
+ if node not in visited :
+ print ( node )
+ for neighbour in graph [ node ]:
+ dfs ( visited , graph , neighbour ) 
+
+
+
+",NONE
+"create a simple HTML webpage which has a button called “Go!”. When I press this button, it should produce
+an image of a cat. Every time I press it, the cat image should be replaced with a different one.
+
+
+",NONE
+"Can you fix this code with a bug and add line-by-line comments in Persian?
+
+1 int main () {
+2 int i;
+3 int array [5];
+4 for (i =0; i <=5; i ++) {
+5 array [i] = i;
+6 }
+7 return 0;
+8 }
+
+
+",NONE
+"Write a python code to identify the edges of an image.
+
+
+",NONE
+"Debug the Python code below:
+
+def some_function(input):
+ average = sum(input)/len(input)
+ return average
+
+list_01 = [1,2,4,5,6]
+some_function(list_01)
+
+list_02 = []
+some_function(list_02) 
+
+
+",NONE

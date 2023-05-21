@@ -1,0 +1,172 @@
+Question,Answer
+"For each snippet of text, label the sentiment of the text as positive or negative. The answer should be exact `positive’ or `negative’. 
+Text: it's played in the most straight-faced fashion, with little humor to lighten things up.
+
+"," Negative.
+
+"
+"For each snippet of text, label the sentiment of the text as positive or negative. The answer should be exact `positive’ or `negative’.
+Text: although german cooking does not come readily to mind when considering the world's best cuisine, mostly
+martha could make deutchland a popular destination for hungry tourists.
+
+"," Positive.
+
+"
+"For each snippet of text, label the sentiment of the text as positive or negative. The answer should be exact `positive’ or `negative’. 
+Text: at times, the suspense is palpable, but by the end there's a sense that the crux of the mystery hinges on a
+technicality that strains credulity and leaves the viewer haunted by the waste of potential.
+
+"," Negative.
+
+"
+"For each snippet of text, label the sentiment of the text as positive or negative. The answer should be exact `positive’ or `negative’.
+Text: ramsay, as in ratcatcher, remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry
+out of lives and settings that might otherwise seem drab and sordid.
+
+"," Positive.
+
+"
+"For each snippet of text, label the sentiment of the text as positive or negative. The answer should be exact `positive’ or `negative’. 
+Text: may be far from the best of the series, but it's assured, wonderfully respectful of its past and thrilling enough
+to make it abundantly clear that this movie phenomenon has once again reinvented itself for a new generation.
+
+"," Positive.
+
+"
+"For each snippet of text, label the sentiment of the text as positive or negative. The answer should be exact `positive’ or `negative’. 
+Text: Hi there. I agree! Small children should be running about happy, not breaking down in tears.
+
+"," Positive.
+
+"
+"Rate the sentiment of this text using one of four labels: positive, negative, neutral, ambivalent. 
+Text to evaluate: Great location, the market is 10 minutes away. Hotel clean, good breakfasts, They could only work on WI FI in the evenings does not work, you have to go down to the bar there is not overloaded. There is parking both underground and next to the hotel . You can say good hotel for a good price.
+
+"," Positive.
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative: 
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.
+Text: HOO BOY THAT WESTWORLD FINALE 
+Possible sentiment: negative, neutral, positive
+
+"," 2
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.
+Text: @user You and George Soros make a good team! 
+Possible sentiment: negative, neutral, positive 
+
+"," 2
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself. 
+Input data: 
+Text: Samsung to Bring Android 7.0 Nougat to Galaxy S6, S6 edge, Note 5, and Tab S2 - Softpedia News 
+Possible sentiment: negative, neutral, positive
+
+"," 2
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself. 
+Input data:  Text: Ben Carson for Housing & Urban Development?? I just can't 
+Possible sentiment: negative, neutral, positive
+
+"," 0
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.  Input data:
+Text: by putting it on your face, you're condoning animal testing and animal ingredients in make up!! 
+Possible sentiment: negative, neutral, positive
+
+"," 0
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.  Input data:
+Text: In memory of Fidel, a little quote from Bob Dylan:I was sleepin’ like a ratWhen I heard something jerkin’... 
+Possible sentiment: negative, neutral, positive
+
+"," 1
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.  Input data:
+Text: How appetising is a Full English Brexit? My latest 'Sideways View' for @user 
+Possible sentiment: negative, neutral, positive
+
+"," 1
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.  Input data:
+Text: Wow - the world as we know it is slowly turning upside down: Microsoft joins the Linux Foundation. 
+Possible sentiment: negative, neutral, positive
+
+"," 2
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself.  Input data: 
+Text: i bought it for kh3 and persona 5 and ffxiv (tho i havent touched that in months 
+Possible sentiment: negative, neutral, positive
+
+"," 1
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative:
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself. Input data: 
+Text: Free use-case based DeepLearning course with TensorFlow at user BigData 
+Possible sentiment: negative, neutral, positive
+
+"," 1
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative: 
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself. 
+Input data:  
+Text: This is of concern for all of us 
+Possible sentiment: negative, neutral, positive 
+
+"," 0
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative: 
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself. 
+Input data:  Text: The Beatles, Bob Dylan, The Byrds... and #BigData? ~ via @user 
+Possible sentiment: negative, neutral, positive 
+
+"," 1
+
+"
+"Describe the sentiment of the given text. Choose your answer from the provided list and map your answer with the following negative: 
+0, neutral: 1, positive: 2, and return an integer as a result. Do not explain yourself. 
+Input data:  
+Text: Which #GPU(s) to Get for Deep Learning. #BigData #DeepLearning #MachineLearning #DataScience #AI 
+Possible sentiment: negative, neutral, positive 
+
+"," 1
+
+"
+"find the sentiment of this sentence ``The Head And In Frontal Attack On An English Writer That The Character Of This Point Is Therefore Another Method For The Letters That The Time Of Who Ever Told The Problem For An Unexpected.""
+
+"," The sentence does not convey any clear sentiment.
+
+"
+"What is the sentiment of the following statement: ""I'm not sure if I like this product, but it's better than the last one I had.""?
+
+"," This statement contains both positive and negative sentiment, so it could be classified as neutral or mixed sentiment.
+
+"
+"What is the sentiment of the following statement:
+
+طعم خوبی داره اما حتی در شگفت انگیز هم خیلی گرونه، حدودا دو برابر قیمت گوشت گرم رو داره.
+
+
+"," Mixed.
+
+"

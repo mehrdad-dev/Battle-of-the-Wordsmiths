@@ -1,0 +1,109 @@
+Question,Answer
+"Two children, Chloe and Alexander, went for a walk. They both saw a dog and a tree. Alexander also saw a cat and pointed it out to Chloe. She went to pet the cat. Who saw the cat first?
+
+"," Alexander.
+
+"
+"I went to a party. I arrived before John. David arrived after Joe. Joe arrived before me. John arrived after David. Who arrived first?
+
+"," Joe, I, David, John, so Joe arrived first.
+
+"
+"I have written a short story about making tea,
+but my sentences have got mixed up. Can you
+write the story in the correct order? You might
+want to cut them out to help order them
+
+We both drank a nice cup of tea
+He poured hot water in the cups.
+Dad filled the kettle with water.
+He then put a teabag in each cup.
+
+
+","
+Dad filled the kettle with water.
+He put a teabag in each cup.
+He poured hot water in the cups.
+We both drank a nice cup of tea.
+
+
+"
+"I have written a short story about making a
+cake, but my sentences have got mixed up.
+Can you write the story in the correct order?
+
+She put icing on the cake.
+After 20 minutes she took the cake out.
+We all ate a piece of cake.
+Mum put the cake in the oven.
+
+
+","
+Mum put the cake in the oven.
+After 20 minutes she took the cake out.
+She put icing on the cake.
+We all ate a piece of cake.
+
+
+"
+"""The traffic camera snapped an image of the black car as it sped through the stoplight. Soon after, the car was painted red and the license plates were changed."" 
+Q: Does the traffic camera show that the car is black?
+ 
+","
+Yes, the traffic camera shows that the car is black.
+
+"
+"""A map shows the ground floor plan. A photocopy was sent to the architect yesterday, but at the time the kitchen door was missing. It was added to the map this morning."" 
+Q: Does the architect’s photocopy show the door?
+ 
+","
+No, the architect's photocopy does not show the door.
+
+"
+"""A photograph was taken of an apple hanging on a tree branch. The film took half an hour to develop. In the meantime, a strong wind blew the apple to the ground."" 
+Q: Does the developed photograph show the apple on the tree?
+ 
+","
+Yes, the developed photograph shows the apple on the tree.
+
+"
+"""A popular attraction in the park, pictured on many souvenirs, was a cliff face covered with ancient petroglyphs. Recently, the petroglyphs crumbled and scientists have not begun to restore them."" 
+Q: Today, can the petroglyphs be seen in the park?
+
+","
+No, the petroglyphs cannot be seen in the park today as they have crumbled.
+
+"
+"""A long time ago, an explorer mapped a small island. Since then, the water levels rose and only a tiny part of the island is now left above water."" 
+Q: On the explorer's maps, does the island appear to be mostly above water?
+ 
+"," Yes.
+
+"
+"""A large oak tree stood in front of City Hall from the time the building was built. Last year the tree fell down and was replaced by a stone fountain.""
+Q: Does an antique drawing of City Hall show a fountain in front?
+ 
+","
+No, an antique drawing of City Hall would show the large oak tree in front, as the stone fountain was only added last year.
+
+"
+"""A volcano erupted on a Caribbean island three months ago. Barren lava rock is all that remains today. Satellite photographs show the island as it was before the eruption."" 
+Q: Do satellite photographs show the island is covered in lava?
+ 
+","
+Yes, the satellite photographs show the island as it was before the eruption, which means they show the island covered in barren lava rock.
+
+"
+"""The family's old video tape recorded the daughter's first birthday party at their house in Chicago. Since then, the family sold their house and moved to San Francisco."" 
+Q: Does the video show the family living in San Francisco?
+
+","
+No, the video shows the family living in Chicago.
+
+"
+"""At the time a portrait was drawn of a young man, he had short brown hair and no facial hair. Now the man's hair is long and gray and so is his beard."" 
+Q: Today, is the length of the man’s beard long?
+
+"," Yes.
+
+"

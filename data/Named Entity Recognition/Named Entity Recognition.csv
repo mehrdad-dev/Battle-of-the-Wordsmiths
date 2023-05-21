@@ -1,0 +1,76 @@
+Question,Answer
+"Please identify Person, Organization, Location and Miscellaneous Entity from the given text.
+Text: State Street Bank and Trust Company
+
+"," Person: None 
+Organization: State Street Bank and Trust Company 
+Location: None 
+Miscellaneous: None
+
+"
+"Please identify Person, Organization, Location and Miscellaneous Entity from the given text.
+Text: Fourteen years after he bludgeoned and shot a man whose trailer home he robbed in 1982, John Mills Jr.
+
+"," Person: John Mills Jr. 
+Organization: None 
+Location: None 
+Miscellaneous: None
+
+"
+"Please identify Person, Organization, Location and Miscellaneous Entity from the given text.
+Text: Voeks, who was already on probation for prior pig thefts, pleaded that he was trying to pay bills for his ex-wife and children.
+
+"," Person: Voeks, ex-wife, children 
+Organization: None 
+Location: None 
+Miscellaneous: pig thefts, probation, bills
+
+"
+"Please identify Person, Organization, Location and Miscellaneous Entity from the given text.
+Text: NYMEX natgas ends sharply lower on weather outlook.
+
+"," Person: None 
+Organization: NYMEX (New York Mercantile Exchange) 
+Location: None 
+Miscellaneous: natgas
+
+"
+"Please identify Person, Organization, Location and Miscellaneous Entity from the given text.
+Text: He was fined and ordered to pay a total of 175 pounds to two members of staff injured in the fracas in an east London restaurant in October.
+
+"," 
+Person: He 
+Organization: None 
+Location: east London restaurant 
+Miscellaneous: None
+
+"
+"Please identify Person, Organization, Location and Miscellaneous Entity from the given text.
+Text: Offerings light.
+
+"," 
+Person: None
+Organization: None 
+Location: None 
+Miscellaneous Entity: None
+
+"
+"classify the named entities in this text: George Washington and his troops crossed the Delaware River on December 25, 1776 during the American Revolutionary War.
+
+"," 
+Person: George Washington 
+Organization: None 
+Location: Delaware River 
+Miscellaneous Entity: the American Revolutionary War, December 25, 1776
+
+"
+"classify the named entities in this text:
+Yesterday, I visited the Louvre Museum in Paris, which is one of the largest and most famous art museums in the world. I was amazed by the vast collection of art and artifacts, including the Mona Lisa painting, which is one of the most renowned pieces in the museum. I also learned about the history and architecture of the museum, which was originally built as a fortress in the 12th century and later converted into a museum in the 18th century. Overall, it was a fascinating experience that I will never forget.
+
+"," 
+Location: Paris, Louvre Museum 
+Organization: Louvre Museum
+Person/Artwork: Mona Lisa
+Miscellaneous: 12th century, 18th century, yesterday
+
+"

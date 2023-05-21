@@ -1,0 +1,129 @@
+Question,Answer
+"Suppose I have an 8x8 grid. The columns are labeled 1-8 from left to right, and the rows are labeled A-H from top to bottom. All cells are empty except for cell B-3 which has a rat, and cells F-6, which has cheese. What is the exact series of cells the rat can move through to get to the cheese as quickly as possible? Assume the rat can only move up- down-left-right to adjacent cells, and not diagonally.
+
+"," There are several solutions with the length of 7. 
+
+"
+"Suppose I have an 8x8 grid. The columns are labeled 1-8 from left to right, and the rows are labeled A-H from top to bottom. All cells are empty except for cell B-3 which has a rat, and cells F-6, which has cheese. Suppose that the following cells are impassable, the rat cannot go through them: D4, D5, D6, D7, E4, F4. What is the exact series of cells the rat can move through to get to the cheese as quickly as possible? Assume the rat can only move up-down- left-right to adjacent cells, and not diagonally.
+
+"," The shortest path has a length of 9. One possible solution is 
+ 
+ B-3 -> C-3 -> D-3 -> E-3 -> F-3 -> G-3 -> G-4 -> G-5 -> G-6 -> F-6. 
+
+
+
+"
+"A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P?
+
+"," X is to the right of P.
+
+"
+"There are three cubic boxes called A, B, and C. They are placed on the ground, one on top of the other, to form a stack three boxes high. If C is immediately below A, and B is higher up than C, which block is on top? Name the boxes from top to bottom. Does ``C is immediately below A"" allow B to be between them?
+
+"," The true answer, from top to bottom, is: B, A, C
+
+"
+"Does an anaconda fit inside a shopping mall?
+
+"," Yes.
+
+"
+"Can you place six X's on a Tic Tac Toe board without making three-in-a-row in any direction?
+
+"," Yes.
+ 
+ X X -
+ X - X
+ - X X
+
+
+"
+"Nine dots are arranged in a three-by-three square. Connect each of the nine dots using only four straight lines and without lifting your pen from the paper.
+
+"," It is possible using lines that go outside the 3 x 3 area.
+
+"
+"Do two circles that both have a radius of 5 intersect if the distance between their centers is 9?
+
+"," Yes
+
+"
+"Would a baby gray whale fit in a tractor-trailer?
+
+"," No, a baby gray whale would not fit in a tractor-trailer.
+
+"
+"Draw a unicorn in TiKZ.
+
+",NONE
+"Produce TikZ code that draws a person composed from letters in the
+alphabet. The arms and torso can be the letter Y, the face can be the
+letter O (add some facial features) and the legs can be the legs of the
+letter H. Feel free to add other features.
+
+",NONE
+"Produce TikZ code that draws: A pig and the letter H.
+
+",NONE
+"Produce TikZ code that draws: A house and the letter U.
+
+",NONE
+"Produce TikZ code that draws: A chair and the letter K.
+ 
+",NONE
+"Produce TikZ code that draws: A dog and the letter Q.
+
+",NONE
+"Produce TikZ code that draws: A car and the letter E.
+
+",NONE
+"You will be given a name of an object (such as Car, Chair, Elephant) and a letter in the alphabet. Your
+goal is to first produce a 1-line description of how that object can be combined with the letter in an
+image (for example, for an elephant and the letter J, the trunk of the elephant can have a J shape, and
+for the letter A and a house, the house can have an A shape with the upper triangle of the A being the
+roof). Following the short description, please create SVG code to produce this (in the SVG use shapes
+like ellipses, triangles etc and polygons but try to defer from using quadratic curves). 
+Object: Car
+Letter: S
+Description: The car can have a large ``S"" on its side, made out of a series of curved lines and shapes.
+
+
+
+
+",NONE
+"On a shelf, there are four cars: a green car, a blue car, an orange and a yellow car. The green car is to the left of the yellow car. The yellow car is the second from the left. The blue car is the rightmost. What is the car order? Please think step by step.
+
+"," 
+Gree, Yellow, Orange, Blue
+
+"
+"If X is to the left of Y and Y is to the right of Z, which of the following must be true?
+a) X is to the left of Z
+b) Z is to the left of X
+c) X is to the right of Y
+d) Z is to the right of Y
+
+"," Option A.
+
+"
+"The layout of the house is described via the following prompt:
+Imagine a house with a rectangular shape
+consisting of 4 square rooms of equal size and
+a spacious rectangular hall stretching from
+the North to the South direction. The house is
+designed in such a way that Room A occupies
+the North-West corner, Room C occupies the
+South-West corner, Room B is located in the
+North-East corner, and Room D is situated in the
+South-East corner. The rectangular hall serves
+as a central pathway that separates the house
+into two sections, with rooms A and C on the
+West and rooms B and D on the east of the hall.
+Notably, the rooms on either side of the hall
+share a common wall.
+
+Suppose I’m sitting in Room A and I hear someone calling me from the adjoining room. The person who is calling me is sitting in which room?
+
+"," Room C.
+
+"

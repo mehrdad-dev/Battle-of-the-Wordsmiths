@@ -1,0 +1,107 @@
+Question,Answer
+"Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY? 
+Answer Choices: (A) 12/25/2006 (B) 12/11/1937 (C) 12/25/1937 (D) 12/04/1937 (E) 07/25/1937 (F) 01/04/1938
+
+"," Among A through F, the answer is C) 12/25/1937 as Christmas Eve is December 24th and the next day is Christmas Day December 25th.
+
+"
+"The day before yesterday was 11/23/1933. What is the date yesterday in MM/DD/YYYY? 
+Answer Choices: (A) 11/25/1933 (B) 11/24/2020 (C) 12/22/1933 (D) 10/27/1933 (E) 11/24/1933 (F) 12/27/1933
+
+"," 
+Among A through F, the answer is (E) 11/24/1933. The day before yesterday was 11/23/1933 and yesterday would be one day later, which is 11/24/1933.
+
+"
+"Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 24 hours later in MM/DD/YYYY? Answer Choices: (A) 02/16/2010 (B) 02/17/2010 (C) 02/21/2010 (D) 03/27/2010 (E) 02/23/2010 (F) 02/03/2010
+
+"," 
+Among A through F, the answer is B) 02/17/2010. Explanation: Since Jane visits the bookstore on the 16th of each month and today is her 5th visit, it is currently February 16th 2010. 24 hours later would be February 17th 2010.
+
+"
+"The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY? 
+Answer Choices: (A) 10/23/1942 (B) 05/21/1943 (C) 07/01/1943 (D) 05/23/1943 (E) 05/24/1943
+
+"," 
+Among A through F, the answer is (D) 05/23/1943. The concert was delayed by one day, so 10 days ago from 06/01/1943 would be 05/23/1943.
+
+"
+"If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004? 
+Sunday
+Saturday
+Tuesday
+Wednesday
+
+"," Sunday. 
+The year 2004 is a leap year. So, it has 2 odd days.
+But, Feb 2004 not included because we are calculating from March 2004 to March 2005. So it has 1 odd day only.
+ The day on 6th March, 2005 will be 1 day beyond the day on 6th March, 2004.
+Given that, 6th March, 2005 is Monday.
+ 6th March, 2004 is Sunday (1 day before to 6th March, 2005).
+
+"
+"What was the day of the week on 16th August, 1947?
+A) Sunday	
+B) Monday
+C) Saturday	
+D) Thursday
+
+"," C) Saturday 
+
+"
+"If every second Saturday and all Sundays are holidays in a 30 days month beginning on Saturday, then how many working days are there in that month? (Month starts from Saturday)
+A) 25	
+B) 22
+C) 24	
+D) 23
+
+"," 
+ D) 23
+As month begins on Saturday, so 2nd, 9th, 16th, 23rd, 30th days will be Sundays. While 8th and 22nd days are second Saturdays. Thus, there are 7 holidays in all.
+Hence, no. of working days = 30 – 7 =23
+
+"
+"If today is Saturday, what will be the day 350 days from now?
+A) Saturday	
+B) Friday
+C) Sunday	
+D) Monday
+
+"," 
+A) Saturday
+350 days = (350/7=50 weeks) i.e No odd days,
+ So it will be a Saturday.
+ 
+"
+"The second day of a month is Sunday, What will be the last day of the next month which has 31 days? 
+A) Friday
+B) Saturday
+C) Sunday	
+D) Can't be determined
+
+"," Option D
+
+"
+"It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010? 
+A) Sunday	  
+B) Friday 
+C) Monday	 
+D) Tuesday
+
+"," 
+ B) Friday
+Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.
+On 1st Jan 2006, it was Sunday.
+Thus, On 1st Jan, 2010 it is Friday.
+
+"
+"It's currently 2022-12-30. how many days ago was 2022-11-05? please do the math.
+
+"," 55 days ago.
+
+"
+"What was the date 120 days ago from today?
+explain your answer.
+
+"," The answer would depend on the current date, so the model needs access to the current date. Date of asking the question from all models is May 8, 2023.
+
+"

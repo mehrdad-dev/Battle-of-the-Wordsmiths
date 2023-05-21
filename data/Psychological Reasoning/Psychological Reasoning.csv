@@ -1,0 +1,83 @@
+Question,Answer
+"Suppose there is a room with two doors leading into it, one on the left and one on the right. The doors are closed. In the room there are two opaque boxes, Box A, and Box B. Alice opens the left door, and walks into the room. Alice opens Box A and places her ball inside it. Alice closes box A. Alice leaves the room and closes the door behind her. Bob opens the right door, and walks into the room. Bob opens Box A and takes out Alice's ball. Bob closes Box A. Bob opens Box B, and places the ball inside it. Bob closes Box B. Bob leaves the room, and closes the door behind him. Alice opens the left door, and walks into the room. Suppose Alice and Bob have not communicated in any way. Where will Alice look for her ball? 
+
+"," Box A.
+
+"
+"Suppose there is a room with two doors leading into it, one on the left and one on the right. The doors are closed. In the room there are two clear glass boxes, Box A, and Box B. Alice opens the left door, and walks into the room. Alice opens Box A and places her ball inside it. Alice closes box A. Alice leaves the room and closes the door behind her. Bob opens the right door, and walks into the room. Bob opens Box A and takes out Alice's ball. Bob closes Box A. Bob opens Box B, and places the ball inside it. Bob closes Box B. Bob leaves the room, and closes the door behind him. Alice opens the left door, and walks into the room. Suppose Alice and Bob have not communicated in any way. Where will Alice look for her ball first?
+
+"," Box B.
+
+"
+"John is reading a book in a room. When he is done, John puts the book on the table. He then leaves to eat in the kitchen. Sara comes in the room and moves the book from the table to the drawer. Then Sara leaves. John comes back to read some more. Where will John look for the book first? Where is the book now?
+
+"," John will look for the book first on the table. The book is in the drawer now.
+
+"
+"While in the kitchen, Elizabeth and her sister were preparing a pie in the oven. Elizabeth adjusted the oven temperature to 250 degrees before leaving to answer a phone call in the living room. During her absence, Elizabeth's sister raised the temperature to 400 degrees. What temperature does Elizabeth expect to see upon returning to the kitchen?
+
+"," 250 degrees.
+
+"
+"""Every day Jill goes to the coffee shop on the corner and orders a latte, her favorite drink. Today, the cashier misunderstands Jill and prepares a mocha instead."" 
+Q: Does Jill think her drink will taste like a mocha?
+ 
+"," No.
+
+"
+"""The weather was so warm today that all the tulips in Pam's backyard suddenly bloomed. The tulips
+next to Pam's office still have not yet flowered, though. Pam has been at work all day."" 
+Q: When Pam is driving home after work, does she assume her tulips have bloomed?
+
+"," No.
+
+"
+"""When Lisa left Jacob, he was deep asleep on the beach. A few minutes later a wave woke him. Seeing Lisa was gone, Jacob decided to go swimming."" 
+Q: Does Lisa now believe that Jacob is asleep?
+
+"," Yes.
+
+"
+"""Amy walked to work today. When George woke up, he saw her car in the drive. Her room was quiet
+and dark. George knows that when Amy is sick, she lies down in a dark room."" 
+Q: Does George think Amy is sick today?
+
+"," Yes.
+
+"
+"Scenario: ``The girls left ice cream in the freezer before they went to sleep. Over night the power to the kitchen was cut and the ice cream melted.""
+Q: When they get up, do the girls believe the ice cream is melted?
+
+","
+The girls put the ice cream in the freezer and went to sleep. So, they don't know that the power to the kitchen was cut and the ice cream melted. So, the answer is: No, the girls don't believe the ice cream is melted.
+
+"
+"Scenario: ``Lucy was in a hurry to get to work, so she quickly grabbed her lunch from the fridge and left the house. At lunchtime, she opened her lunchbox and realized she had accidentally taken her roommate's lunch."" 
+Q: Will Lucy's roommate have her own lunch to eat that day?
+
+","
+Lucy was in hurry and mistakenly grabbed her roommate lunch. So, her roommate’s lunch is now
+with Lucy. So, the answer is: No, Lucy's roommate will not have her own lunch to eat that day.
+
+"
+"Scenario: ``Sarah was excited to show off her new dress at the party. As she walked in, she noticed that another girl was wearing the exact same dress. She quickly went back home to change and then returned to the party."" 
+Q: Did Sarah wear her favorite dress the whole night?
+
+","
+Sarah was excited about her new dress and wanted to wear it as the party. But since another girl was wearing the same dress, she went home and changed to a different dress. So, the answer is: No, she did not wear her favorite dress the whole night.
+
+"
+"""Anne made lasagna in the blue dish. After Anne left, Ian came home and ate the lasagna. Then he filled the blue dish with spaghetti and replaced it in the fridge.""
+Q: Does Anne think the blue dish contains spaghetti?
+
+","
+When Anne left, the blue dish contained lasagna. Ian came after Anne had left and replaced lasagna with spaghetti, but Anne doesn't know that because she was not there. So, the answer is: No, she doesn't think the blue dish contains spaghetti.
+
+"
+"""To detect intruders, the lab uses an automated system for recording voices. In the empty lab one night, a computer error occurs and a synthetic voice reads the error message."" 
+Q: Is the number of people in the lab that night zero?
+ 
+","
+Yes, the number of people in the lab that night is zero.
+
+"

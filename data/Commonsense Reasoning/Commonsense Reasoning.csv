@@ -1,0 +1,232 @@
+Question,Answer
+"premise: The pair of students came under scrutiny by the teacher.
+What is the cause?
+choice 1: The students both received excellent grades.
+choice 2: Their responses on the assignment were identical.
+
+"," choice 2
+
+"
+"premise: The boy threw a temper tantrum.
+What is the cause?
+choice 1: His brother took his toys from him.
+choice 2: He shared his toys with his brother.
+
+"," choice 1
+
+"
+"premise: The woman read the newspaper.
+What is the effect?
+choice 1: She discovered the outcome of the election.
+choice 2: She casted a vote in the election.
+
+"," choice 1
+
+"
+"premise: The woman was in a bad mood.
+What is the effect?
+choice 1: She engaged in small talk with her friend.
+choice 2: She told her friend to leave her alone.
+
+"," choice 2
+
+"
+"premise: The woman banished the children from her property.
+What is the cause?
+choice 1: The children hit a ball into her yard.
+choice 2: The children trampled through her garden.
+
+"," choice 2
+
+"
+"premise: The ring on my finger got stuck.
+What is the cause?
+choice 1: My finger swelled.
+choice 2: I chipped my fingernail.
+
+"," choice 1
+
+"
+"premise: The woman retired.
+What is the effect?
+choice 1: She received her pension.
+choice 2: She paid off her mortgage.
+
+"," choice 1
+
+"
+"premise: The computer was expensive to fix.
+What is the effect?
+choice 1: I got it repaired.
+choice 2: I bought a new one.
+
+"," choice 2
+
+"
+"What are candles good for eliminating? 
+Answer Choices: (A) shelf (B) board (C) church (D) table (E) dark
+
+"," option E - dark. Candles are often used to provide light in dark places, such as during power outages or in camping situations.
+
+"
+"How does going jogging generally affect one's self-esteem? 
+Answer Choices: (A) feel better (B) feel pride (C) sweating (D) ocean (E) arthritis
+
+"," option A or B
+
+"
+"James knows that committing murder was wrong, but he thought that he could get away with it. He was really troubled and fearful because of what? 
+Answer Choices: (A) happiness (B) problems (C) prosecution (D) distress (E) misery
+
+"," option C - prosecution
+
+"
+"How can someone die from eating a hamburger?  
+Answer Choices: (A) gas (B) getting full (C) mad cow disease (D) death (E) feeling full
+
+"," Option C - mad cow disease. Mad cow disease, also known as bovine spongiform encephalopathy (BSE), is a rare but serious condition that can occur in cattle. When a person eats meat from a cow infected with BSE, they can develop a similar disease called variant Creutzfeldt-Jakob disease (vCJD). vCJD is a fatal neurological disorder
+
+"
+"Why would a woman kill a stranger she met in a dark alley? 
+Answer Choices: (A) being raped (B) get rid of (C) they didn't know the passcode (D) get revenge (E) were evil
+
+"," Option A or D.
+
+"
+"What would you do if you have curiosity but are blind and paralyzed? 
+Answer Choices: (A) hear news (B) analyse (C) go somewhere (D) examine thing (E) see favorite show
+
+"," Option A or B.
+
+"
+"Which item below is not made from a material grown in nature? 
+a cotton shirt, a wooden chair, a plastic spoon and a grass basket.
+
+"," plastic spoon
+
+"
+"Which of the following sentences makes more sense? 
+The child started crying because he hurt his knee. 
+The child hurt his knee because he started crying.
+
+"," The child started crying because he hurt his knee.
+
+"
+"which sentence makes more sense? 
+A) Expecting ten fish in the net, Sammy was thrilled to see forty fish swimming in there. 
+B) Expecting ten fish in the net, Sammy was thrilled to see five fish swimming in there
+
+"," Sentence A
+
+"
+"A woman opens a treasure chest. What would have happened if the woman had not opened the treasure chest? 
+A. The treasure chest would have been open.
+B. That is not possible.
+C. The treasure chest would have remained closed.
+D. I don't know
+
+"," Choice C
+
+"
+"which sentence makes more sense?
+It suddenly snows, so they will spend more time on the road getting home than usual. 
+It suddenly snows, so they will spend a similar amount of time on the road getting home as usual.
+
+"," The first sentence.
+
+"
+"The outmost layer of an onion is larger than the inner layers are. Yes or No?
+
+"," Yes.
+
+"
+"Premise: I tipped the bottle. What happened as a RESULT? 
+Alternative 1: The liquid in the bottle froze. 
+Alternative 2: The liquid in the bottle poured out
+
+"," Alternative 2
+
+"
+"Premise: I knocked on my neighbor's door. What happened as a RESULT? 
+Alternative 1: My neighbor invited me in. 
+Alternative 2: My neighbor left his house.
+
+"," Alternative 1
+
+"
+"True or False? Only people named Floyd wearing pink are allowed to attend Pink Floyd concerts.
+
+"," False
+
+"
+"True or False: Short-eared dogs have the biggest wings of all the mammals.
+
+"," False
+
+"
+"True or False: Wheat grows taller than a pine tree.
+
+"," False
+
+"
+"True or False: Diamond jewelry is made out of ice.
+
+"," False
+
+"
+"True or False: Most Dutch people can fluently speak Dutch.
+
+"," True
+
+"
+"Where would I not want a fox?
+hen house, england, mountains, english hunt, or california
+
+"," hen house.
+
+"
+"What do all humans want to experience in their own home? 
+feel comfortable, work hard, fall in love, lay eggs, or live forever
+
+"," feel comfortable.
+
+"
+"Where would you sit in a chair while hearing about sin?
+
+"," Church
+
+"
+"Where would you be landing if you were descending from a flight? 
+airport, ladder, stairwell, apartment building, or ocean
+
+"," airport.
+
+"
+"Where on a river can you hold a cup upright to catch water on a sunny day? 
+waterfall, bridge, pebble, or mountain 
+
+"," waterfall.
+
+"
+"Premise: The man broke his toe. What was the CAUSE of this?
+Alternative 1: He got a hole in his sock. 
+Alternative 2: He dropped a hammer on his foot.
+
+"," Alternative 2
+
+"
+"The large ball crashed right through the table because it was made of steel. What was made of steel?
+
+"," The large ball.
+
+"
+"does a watch usually cost more than an egg?
+
+"," Yes.
+
+"
+"Was Lincoln's assassin on the same continent as Lincoln when the assassination occurred?
+
+"," Yes.
+
+"

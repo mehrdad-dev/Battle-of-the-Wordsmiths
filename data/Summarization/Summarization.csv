@@ -1,0 +1,172 @@
+Question,Answer
+"summarize the below text:
+Large language models are a breakthrough in the field of artificial intelligence, allowing machines to generate human-like text that is indistinguishable from that written by a human. These models are trained on massive amounts of data, such as books, articles, and websites, which allows them to learn the nuances of language and context. With this knowledge, they can generate coherent and insightful text on a wide range of topics, from news articles to creative writing.
+
+",NONE
+"summarize the below text:
+Virtual reality (VR) technology is a rapidly advancing field that is revolutionizing the way we interact with digital content. With VR, users can be transported to entirely new environments and experiences that feel incredibly real.
+At the heart of VR technology are specialized headsets that use high-resolution displays and advanced tracking systems to create immersive 3D environments. These headsets are typically accompanied by handheld controllers or other input devices that allow users to interact with the virtual world in natural and intuitive ways.
+
+",NONE
+"summarize below conversation in a short paragraph:
+Friend 1: Hey, how was your weekend?
+Friend 2: It was pretty good. I went hiking with some friends on Saturday and then spent Sunday relaxing at home. How about you?
+Friend 1: Not bad. I went to a concert on Saturday night and then spent Sunday doing some errands and catching up on work. Did you hear about the new restaurant that just opened up downtown?
+Friend 2: No, I didn't. What kind of food do they serve?
+Friend 1: It's a Mexican place. I heard the tacos are really good.
+Friend 2: Oh, nice! We should check it out sometime.
+Friend 1: Definitely. How about next weekend?
+Friend 2: Sounds good to me. Let's make a plan.
+
+",NONE
+"Antibiotics are a type of medication used to treat bacterial infections. They work by either killing the bacteria or preventing them from reproducing, allowing the body's immune system to fight off the infection. Antibiotics are usually taken orally in the form of pills, capsules, or liquid solutions, or sometimes administered intravenously. They are not effective against viral infections, and using them inappropriately can lead to antibiotic resistance. 
+Explain the above in one sentence.
+
+",NONE
+"summarize the below email:
+
+Subject: Hotel Booking Request 
+
+Dear [Hotel Name], 
+
+I am interested in booking a room at your hotel for [number of nights] nights from [check-in date] to [check-out date]. I will be traveling with [number of adults/children] and would like to request a [room type] room. 
+
+Please let me know if there are any available rooms during the requested dates and the total cost for the stay. Also, kindly provide any information on your hotel policies and amenities. 
+Thank you for your prompt response. 
+
+Best regards, 
+text{[Your Name]}
+
+",NONE
+"summarize below text in a short sentence:
+The consequences of global warming are far-reaching and can negatively impact our planet's ecosystems, weather patterns, and human health. The rise in temperature can cause melting of polar ice caps and glaciers, leading to sea-level rise, more frequent and intense natural disasters, and disruption of ecosystems. activities, such as burning fossil fuels, deforestation, and agriculture, are major contributors to greenhouse gas emissions. However, there are many ways we can reduce our carbon footprint and slow down global warming. These include using clean and renewable energy sources, reducing waste, and promoting sustainable transportation.
+
+",NONE
+"summarize below conversation:
+Person 1: ``I can't believe they canceled the meeting again. What a surprise.""
+Person 2: ``Oh yeah, because we all love sitting in a conference room for hours on end.""
+Person 3: ``Especially when it's filled with pointless PowerPoint slides.""
+Person 4: ``And let's not forget the endless small talk and awkward silences.""
+Person 1: ``Ha ha, very funny guys. But seriously, we need to discuss this project ASAP.""
+Person 2: ``Oh, I'm sure the meeting would have been a real game-changer.""
+Person 3: ``Yeah, because nothing gets the creative juices flowing like a stuffy boardroom.""
+Person 4: ``Maybe next time we can all just email each other instead. That way we can avoid any actual human interaction.""
+
+",NONE
+"summarize the below text:
+Ah, great. Just what I needed - another boring day of school. I mean, who doesn't love sitting in a stuffy classroom for hours on end, listening to some old geezer drone on and on about stuff we'll never actually use in real life?
+And don't even get me started on the homework. Like, seriously, who comes up with this stuff? Oh boy, another worksheet on long division. Just what I always wanted. I'm sure I'll be using that skill all the time when I'm an adult.
+But hey, at least I get to spend my afternoons doing more homework and studying for tests. Because, you know, there's nothing more fun than spending all your free time hunched over a textbook.
+
+",NONE
+"summarize the below text in just two sentences:
+""NASA's Perseverance Rover Successfully Collects First Rock Sample on Mars""
+NASA's Perseverance rover has successfully collected the first rock sample from Mars, marking a major milestone in the mission to study the Red Planet's geology and search for signs of past microbial life. The sample, which is about the size of a piece of chalk, was collected from a rock nicknamed ``Rochette"" in a region called Jezero Crater. The rock will be sealed in a tube and eventually sent back to Earth for analysis. The successful collection of the rock sample is a significant achievement for the Perseverance mission and paves the way for future exploration of Mars.
+
+",NONE
+"summarize the below text in just one sentence:
+Astronomers have detected a signal from the earliest stars in the universe. Using the EDGES radio telescope in Western Australia, the researchers picked up a faint radio wave that was emitted when the universe was just 180 million years old. This signal is believed to have been produced by the first generation of stars, which formed after the Big Bang. The researchers say that the signal provides new insights into the early universe and could help us understand how the first stars and galaxies formed. It could also shed light on the nature of dark matter, the mysterious substance that makes up about 85% of the matter in the universe. The discovery is a major step forward in our understanding of the universe's origins and evolution.
+
+",NONE
+"summarize the below text in just one sentence:
+Artificial intelligence is becoming increasingly popular in the healthcare industry, with AI-powered technologies being used to improve patient outcomes, enhance diagnostic accuracy, and streamline administrative tasks. These technologies can analyze vast amounts of data, identify patterns and anomalies, and provide personalized treatment plans. For example, AI algorithms can help radiologists detect cancerous cells in medical images, while chatbots can provide patients with personalized health advice and support. While there are concerns about the ethical implications of AI in healthcare, many experts believe that it has the potential to revolutionize the industry and improve patient care.
+
+",NONE
+"summarize below conversation: 
+Beatrice: I am in town, shopping. They have nice scarfs in the shop next to the church. Do you want one? 
+Leo: No, thanks 
+Beatrice: But you don’t have a scarf. 
+Leo: Because I don’t need it. 
+Beatrice: Last winter you had a cold all the time. A scarf could help. 
+Leo: I don’t like them. 
+Beatrice: Actually, I don’t care. You will get a scarf. 
+Leo: How understanding of you! 
+Beatrice: You were complaining the whole winter that you’re going to die. I’ve had enough. 
+Leo: Eh.
+
+",NONE
+"summarize below conversation:
+Inez: My dears, our evening inspired me to create this group conversation to plan further Food Evenings :) 
+Inez: This is my proposal for the next one: <file_photo> 
+Alicja: Wow, I will actually feel happy going to work thanks to this :D 
+Gosia: Happy going to work and even happier leaving it haha 
+Alicja: Just too bad that the time between 9 and 17 will be wasted :P 
+Patrycja: I really liked our evening, even the pizza was delicious :) How did you girls like it? 
+Inez: I loved it, Gosia really chose a great place :) 
+Gosia: I am an expert at eating :D 
+Alicja: Have you been to this restaurant Inez sent? 
+Gosia: No, it is quite new. But I heard good opinions! :D 
+Patrycja: And it fits with our theme of exploring world cuisines :) 
+Alicja: First Italy, now Korea! :D 
+Inez: So when could we do this again?
+Gosia: I am not sure, but we have to before the holidays! 
+Patrycja: We should have less work in two weeks, we could go again on Wednesday? 
+Alicja: Sounds good to me! 
+Inez: Me too :D
+
+
+",NONE
+"summarize below conversation:
+Lisa: Hello Peter. What have you been doing off late? 
+Peter: Bit busy with work. 
+Lisa: Too much of work, huh?
+Peter: Not really, I’ve been working out 
+Lisa: Ohh, trying to get in shape? 
+Peter: Nah, I don’t have much of weight to lose, just want to improve my health. 
+Lisa: That’s a good thought. I was also thinking of working out a bit. What do you do? Do you go to a Gym? 
+Peter: Yes, I hold a membership with the one near our office. 
+Lisa: Which exercises do you do regularly? 
+Peter: I do weights and run on the treadmill. 
+Lisa: Besides exercises, I think I need to eat better to help me keep in shape. 
+Peter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep. 
+Lisa: There are a lot of things we can do to stay healthy. 
+Peter: Yes. One needs to maintain a regime to stay healthy for a long term.
+
+",NONE
+"summarize this paragraph with every word starting with g except the word science:
+""Science is the systematic study of the natural world through observation and experimentation. It aims to explain the complex workings of the physical and biological world using empirical evidence, measurements, and the scientific method. The scientific method involves making observations, formulating hypotheses, testing predictions, and gathering data in a measurable and reproducible way. Science has led to many discoveries and technological advances that have profoundly impacted human society, including major improvements in health, transportation, and communications. Yet there is still so much in the universe that remains a mystery, and continued scientific exploration helps us expand our knowledge and gain new insights into the cosmos and our place within it.""
+
+",NONE
+"summarize below conversation:
+Eric: MACHINE! 
+Rob: That’s so gr8! 
+Eric: I know! And shows how Americans see Russian ;) 
+Rob: And it’s really funny! 
+Eric: I know! I especially like the train part! 
+Rob: Hahaha! No one talks to the machine like that! 
+Eric: Is this his only stand-up? 
+Rob: Idk. I’ll check. 
+Eric: Sure. 
+Rob: Turns out no! There are some of his stand-ups on youtube. 
+Eric: Gr8! I’ll watch them now! 
+Rob: Me too! 
+Eric: MACHINE! 
+Rob: MACHINE! 
+Eric: TTYL? 
+Rob: Sure :)
+
+",NONE
+"summarize below conversation:
+Jeff: Should we go to the village party? 
+Lia: I’m too tired after hiking 
+Mico: I’d like to go, there may be some hot boys! 
+Lia: I doubt 
+Jim: like a real village boy? 
+Jim: who doesn’t even speak English? 
+Mico: yes, the dummer, the better 
+Jim: haha, stupid fucks good, they say 
+Mico: I confirm! 
+Lia: not my cup of tea 
+Mico: I’ll go there, who wants to join? 
+Jeff: I’ll go as well 
+Mico: wanna drive? 
+Jeff: so you could drink? 
+Mico: would be nice, hahah 
+Jeff: not excited, but ok 
+Mico: thanks!
+
+",NONE
+"Merge the content of the next sentences into one sentence.
+The Fed raised interest rates last year at the fastest pace since the 1980s, pushing borrowing costs above 4.5 percent, from near zero. That initially seemed to be slowing consumer and business demand and helping inflation to moderate. But a number of recent economic reports have suggested that inflation did not weaken as much as expected last year and remained faster than expected in January, while other data showed hiring remains strong and consumer spending picked up at the start of the year.
+
+",NONE
