@@ -9,7 +9,8 @@ By [Ali Borji](https://scholar.google.com/citations?hl=en&user=7jTNT1IAAAAJ&view
 ## Results
 
 ## Dowload
-
+To access dataset, see [data]() folder or download the dataset from the [release]() section.
+Both ``json`` and ``csv`` format is provied for all categories, you can use them based on your need.
 
 ## Citation
 
