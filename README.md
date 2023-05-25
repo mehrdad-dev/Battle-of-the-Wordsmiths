@@ -4,9 +4,10 @@ By [Ali Borji](https://scholar.google.com/citations?hl=en&user=7jTNT1IAAAAJ&view
 
 
 ## Abstract
-
+to be announced 
 
 ## Results
+to be announced 
 
 
 ## About dataset
@@ -16,6 +17,7 @@ In total, our dataset contains **1002 question-answer pairs**. There are **27 ca
 To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data) folder or download the dataset from the [release](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/releases) section. Both ``json`` and ``csv`` formats are provided for all categories, you can use them based on your need. For those categories/questions that do not require an answer, "NONE" is replaced as the answer.
 
 ## Citation
+to be announced 
 
 ## License 
 [GNU General Public License v3.0](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/blob/main/LICENSE)
