@@ -16,8 +16,8 @@ In total, our dataset contains **1002 question-answer pairs**. There are **27 ca
 ## Download
 To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data) folder or download the dataset from the [release](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/releases) section. Both ``json`` and ``csv`` formats are provided for all categories, you can use them based on your need. For those categories/questions that do not require an answer, "NONE" is replaced as the answer.
 
-- [Wordsmiths]()
-- [Multiple Choice Questions (MCQ)]()
+- [Wordsmiths](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/Wordsmiths)
+- [Multiple Choice Questions (MCQ)](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/mcq)
 
 ## Citation
 to be announced 
