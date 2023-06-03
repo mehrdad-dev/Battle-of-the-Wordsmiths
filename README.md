@@ -11,7 +11,7 @@ to be announced
 
 
 ## About dataset
-In total, our dataset contains **1002 question-answer pairs**. There are **27 categories** that can be used to assess the main and important abilities of the large language models. The figure below shows the number of questions per category.
+In total, our dataset contains **1002 question-answer pairs**. There are [**27 categories**](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/blob/main/CATEGORIES.md) that can be used to assess the main and important abilities of the large language models. The figure below shows the number of questions per category.
 
 ## Download
 To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data) folder or download the dataset from the [release](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/releases) section. Both ``json`` and ``csv`` formats are provided for all categories, you can use them based on your need. For those categories/questions that do not require an answer, "NONE" is replaced as the answer.
