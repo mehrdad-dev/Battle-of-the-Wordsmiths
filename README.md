@@ -20,6 +20,9 @@ To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-t
 - [Wordsmiths](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/Wordsmiths)
 - [Wordsmiths-MCQ (Multiple Choice Questions)](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/Wordsmiths-MCQ)
 
+## Contribution
+If you are interested to contribute to expanding proposed dataset, please open an issue or just send an email. We encourage you to add your question-answer pairs in any category and language.
+
 ## Citation
 to be announced 
 
