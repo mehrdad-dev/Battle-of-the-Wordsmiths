@@ -2,7 +2,9 @@
 
 By [Ali Borji](https://scholar.google.com/citations?hl=en&user=7jTNT1IAAAAJ&view_op=list_works&sortby=pubdate), [Mehrdad Mohammadian](https://scholar.google.com/citations?user=oVnfWYQAAAAJ&hl=en&authuser=1)
 
-Preprint: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476855)
+ResearchGate: [link](https://www.researchgate.net/publication/371846888_Battle_of_the_Wordsmiths_Comparing_ChatGPT_GPT-4_Claude_and_Bard?_sg%5B0%5D=UVs6hwZFdtV6A5VVye5Z6BhEfHwQDiJdk9poFtcnbvzUDuc_aKUqIlHVv2_ypSzTfRiwfEr2eqA8YTnpIkhZanIeIeBW7M3mVmOkaIMu.Yg_qtCXViWwUW9MvEbbZBobHvT0dxQjahRD6Ha-YamFvQccsyWCNofsMI51wg0jb8cF689KfxP7PFGxnywbNyQ)
+
+SSRN Electronic Journal Preprint: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4476855)
 
 Link to paper: to be announced 
 
