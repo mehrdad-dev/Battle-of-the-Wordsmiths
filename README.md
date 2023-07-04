@@ -31,7 +31,15 @@ If you are interested to contribute to expanding proposed dataset, please open a
 SSRN preprint:
 
 ``
-Borji, Ali and Mohammadian, Mehrdad, Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard (June 12, 2023). Available at SSRN: https://ssrn.com/abstract=4476855 or http://dx.doi.org/10.2139/ssrn.4476855 
+@article{BorjiMohammadianWordsmiths,
+author = {Borji, Ali and Mohammadian, Mehrdad},
+year = {2023},
+month = {06},
+pages = {},
+title = {Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard},
+journal = {SSRN Electronic Journal},
+doi = {10.2139/ssrn.4476855}
+}
 ``
 
 ## License 
