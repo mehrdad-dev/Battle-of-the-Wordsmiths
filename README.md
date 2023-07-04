@@ -29,9 +29,8 @@ If you are interested to contribute to expanding proposed dataset, please open a
 
 ## Citation
 SSRN preprint:
-
-``
-@article{BorjiMohammadianWordsmiths,
+```
+@misc{BorjiMohammadianWordsmiths,
 author = {Borji, Ali and Mohammadian, Mehrdad},
 year = {2023},
 month = {06},
@@ -40,7 +39,7 @@ title = {Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard},
 journal = {SSRN Electronic Journal},
 doi = {10.2139/ssrn.4476855}
 }
-``
+```
 
 ## License 
 [GNU General Public License v3.0](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/blob/main/LICENSE)
