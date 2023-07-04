@@ -28,7 +28,7 @@ To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-t
 If you are interested to contribute to expanding proposed dataset, please open an issue or just send an email. We encourage you to add your question-answer pairs in any category and language.
 
 ## Citation
-SSRN:
+SSRN preprint:
 
 ``
 Borji, Ali and Mohammadian, Mehrdad, Battle of the Wordsmiths: Comparing ChatGPT, GPT-4, Claude, and Bard (June 12, 2023). Available at SSRN: https://ssrn.com/abstract=4476855 or http://dx.doi.org/10.2139/ssrn.4476855 
