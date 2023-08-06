@@ -15,7 +15,7 @@ Although informal evaluations of modern LLMs can be found on social media, blogs
 to be announced 
 
 
-## About dataset
+## About the dataset
 In total, our dataset contains **1002 question-answer pairs**. There are [**27 categories**](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/blob/main/CATEGORIES.md) that can be used to assess the main and important abilities of the large language models. The figure below shows the number of questions per category.
 
 ## Download
@@ -23,9 +23,10 @@ To access the dataset, see the [data](https://github.com/mehrdad-dev/Battle-of-t
 
 - [Wordsmiths](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/Wordsmiths)
 - [Wordsmiths-MCQ (Multiple Choice Questions)](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/Wordsmiths-MCQ)
+- [Clustring questions by difficulty](https://github.com/mehrdad-dev/Battle-of-the-Wordsmiths/tree/main/data/%20clustering-by-difficulty)
 
 ## Contribution
-If you are interested to contribute to expanding proposed dataset, please open an issue or just send an email. We encourage you to add your question-answer pairs in any category and language.
+If you are interested to contribute to expanding the proposed dataset, please open an issue or just send an email. We encourage you to add your question-answer pairs in any category and language.
 
 ## Citation
 SSRN preprint:
