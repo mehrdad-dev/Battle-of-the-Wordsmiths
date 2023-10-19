@@ -1,4 +1,4 @@
-# List of avaiable categories:
+# List of available categories:
 
 - Self-Awareness
 - Bias and Discrimination
